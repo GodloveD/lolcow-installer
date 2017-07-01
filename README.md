@@ -46,4 +46,4 @@ Attempting to install lolcow in /home/dave/lolcow
                 ||     ||
 ```
 
-<i>Ha ha ha!<\i>
+## <i>Ha ha ha!</i>
