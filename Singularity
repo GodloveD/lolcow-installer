@@ -29,6 +29,8 @@ arg="$@"
 singularity exec $dir/image $cmd $arg
 EOF
     
+    chmod 755 lolcow.sh
+
     ln -s lolcow.sh fortune
     ln -s lolcow.sh cowsay
     ln -s lolcow.sh lolcat
