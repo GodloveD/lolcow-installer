@@ -4,7 +4,7 @@
 
 [This](http://singularity.lbl.gov/docs-quick-start-installation) will help.
 
-## Step 1: run `lolcow-installer` from Singularity Hub
+## Step 1: run `lolcow-installer` from [Singularity Hub](https://singularity-hub.org/collections/254/)
 
 ```
 [dave@hal2001:~]$ singularity run shub://GodloveD/lolcow-installer
