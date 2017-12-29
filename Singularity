@@ -16,7 +16,7 @@ From: godlovedc/lolcow:latest
     fi
   
     mkdir ~/lolcow
-    cp -r GodloveD-lolcow-installer-master.img ~/lolcow/image
+    cp -r GodloveD-lolcow-installer-master.simg ~/lolcow/image
 
     cd ~/lolcow
     cat > lolcow.sh <<"EOF"
